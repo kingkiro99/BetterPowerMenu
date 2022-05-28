@@ -7,7 +7,7 @@ import os
 
 linux_user = ''
 # icons = ['❌', '🔐', '🛑', '🔁']
-icons = ['\U0000274C', '\U0001F512', '\U0001F6D1', '\U00000021']
+icons = ['\U0000274C', '\U0001F512', '\U0001F6D1', '\U0001F501']
 if sys.platform == "linux":
     sysos = "Linux"
     linux_user = os.getlogin()
